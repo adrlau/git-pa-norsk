@@ -6,10 +6,10 @@
 |---------------|---------------------------|---------------------------|
 | repository    | kolleksjon                | kolleksjon                |
 | branch        | gren                      | grein                     |
-| commit        | bunt                      | bunt                      |
+| commit        | skudd                     | skudd                     |
 | pull request  | fletteforespørsel         | førespurnad om fletting   |
-| merge request | fletteforespørsel         | førespurnad om fletting   |
-| stash         | gjemmested                | gøymestad                 |
+| merge request | spleiseforespørsel        | førespurnad om spleising  |
+| stash         | lager                     | lager                     |
 | tag           | merkelapp                 | merkelapp                 |
 | fork          | sidespor                  | sidespor                  |
 | change        | endring                   | endring                   |
@@ -22,9 +22,9 @@
 | push        | dytte               | dytte              |
 | fetch       | hente               | hente              |
 | branch      | forgrene            | forgreine          |
-| commit      | bunte sammen        | bunte saman        |
+| commit      | skyt                | skyt               |
 | rebase      | lempe om            | lempe om           |
-| merge       | flette (inn/sammen) | flette (inn/saman) |
+| merge       | spleise(inn/sammen) | spleise(inn/saman) |
 | squash      | mose                | mose               |
 | stash       | stue bort           | stue bort          |
 | tag         | merke               | merke              |
