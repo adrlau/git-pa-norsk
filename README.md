@@ -2,6 +2,8 @@
 
 ## Forslag til norske ord
 
+følte noen av forslagene fra det oprinnelige repoet ikke traff helt. Så her her jeg kopiert og kommet med nye skudd.
+
 | Substantiv    | Forslag bokmål            | Forslag nynorsk           |
 |---------------|---------------------------|---------------------------|
 | repository    | kolleksjon                | kolleksjon                |
@@ -11,10 +13,11 @@
 | merge request | spleiseforespørsel        | førespurnad om spleising  |
 | stash         | lager                     | lager                     |
 | tag           | merkelapp                 | merkelapp                 |
-| fork          | sidespor                  | sidespor                  |
+| fork          | replika                   | replika                   |
 | change        | endring                   | endring                   |
 | hash          | signatur                  | signatur                  |
-| remote        | utenforstående kolleksjon | utanforståande kolleksjon |
+| remote        | fjernkolleksjon           | fjernkolleksjon           |
+
 
 | Verb        | Forslag bokmål      | Forslag nynorsk    |
 |-------------|---------------------|--------------------|
@@ -23,7 +26,7 @@
 | fetch       | hente               | hente              |
 | branch      | forgrene            | forgreine          |
 | commit      | skyt                | skyt               |
-| rebase      | lempe om            | lempe om           |
+| rebase      | omplassere          | omplassere         |
 | merge       | spleise(inn/sammen) | spleise(inn/saman) |
 | squash      | mose                | mose               |
 | stash       | stue bort           | stue bort          |
@@ -31,20 +34,5 @@
 | cherry-pick | håndplukke          | handplukke         |
 | amend       | tilføye             | tilføye            |
 | blame       | klandre             | klandre            |
-| fork        | splitte             | splitte            |
+| fork        | kopiere             | kopiera            |
 
-## Eksempler
-```
-Kan du bunte sammen og dytte endringene dine til hovedgrenen?
-Før du kan flette sammen grenene må du først lempe om alle buntene over på riktig gren.
-Vi har splittet den offisielle kolleksjonen og vedlikeholder vårt eget sidespor.
-Du må hente de siste endringene fra den utenforstående kolleksjonen før du kan jobbe videre.
-Jeg har opprettet en fletteforespørsel som fikser problemet.
-Før du drar inn endringene fra den utenforstående kolleksjonen må du stue bort dine lokale endringer.
-Endringene dine vil bli liggende på gjemmestedet.
-Denne fila ble sist endret i bunten med signatur c2c3098.
-```
-
----
-
-Inspirert av https://github.com/bjorne/git-pa-svenska
